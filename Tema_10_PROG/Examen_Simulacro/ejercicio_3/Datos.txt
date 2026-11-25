@@ -1,0 +1,4 @@
+DNI;cargo;salario base;productividad mensual
+66666666A;director;1500;500
+77777777B;comercial;1200;600
+88888888C;programador;1300;400

@@ -1,0 +1,12 @@
+# --- JAVA / MAVEN / GRADLE / ANDROID ---
+target/
+build/
+out/
+bin/
+.gradle/
+local.properties
+*.class
+*.jar
+*.war
+*.apk
+*.aab
